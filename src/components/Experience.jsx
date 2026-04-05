@@ -13,7 +13,7 @@ const EXPERIENCES = [
       'Applied engineering calculations to evaluate energy output, site feasibility, and system sizing for solar installations.',
       'Developed understanding of grid integration, energy storage, and sustainability frameworks in the power sector.',
     ],
-    certLink: 'https://drive.google.com/file/d/1PkbOooBzekwqDlfm6_yuYsfWPl_mlqK3/view',
+    certLink: 'https://drive.google.com/file/d/1WViliKzAwvMYuDbEnVgeQwybBj-v4IkJ/view',
     certLabel: 'View Certificate',
   },
   {
@@ -28,7 +28,7 @@ const EXPERIENCES = [
       'Analyzed experimental data to support target identification and lead optimization stages of drug development.',
       'Gained exposure to industry-relevant tools and frameworks in pharmaceutical R&D and translational science.',
     ],
-    certLink: 'https://drive.google.com/file/d/1WViliKzAwvMYuDbEnVgeQwybBj-v4IkJ/view',
+    certLink: 'https://drive.google.com/file/d/1PkbOooBzekwqDlfm6_yuYsfWPl_mlqK3/view',
     certLabel: 'View Certificate',
   },
 ];
