@@ -94,7 +94,7 @@ export default function Hero() {
 
             <div className="hero-cta">
               <a href="#projects" className="btn btn-primary">View Projects</a>
-              <a href="https://drive.google.com/file/d/1Dkj2fxubLFAcL0X_Efx6aMnejtFYN7JN/view?usp=sharing" target="_blank" className="btn btn-outline">Download CV ↓</a>
+              <a href="https://drive.google.com/file/d/1gAZhV_gUWu4xfgwo6qB5wVZgWYwVCYn_/view?usp=sharing" target="_blank" className="btn btn-outline">Download CV ↓</a>
             </div>
           </div>
         </div>
